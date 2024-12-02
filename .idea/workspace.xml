@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="617b6708-3ee4-4147-ae56-757f4dba8f89" name="Changes" comment="dis">
-      <change afterPath="$PROJECT_DIR$/Assignment/ItemToPurchase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/ShoppingApp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/ShoppingCart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Discussions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="617b6708-3ee4-4147-ae56-757f4dba8f89" name="Changes" comment="assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discussion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Discussions/Discussion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discussion2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Discussions/Discussion2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Discussion.executor": "Run",
-    "Python.Discussion2.executor": "Run",
-    "Python.ShoppingApp.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Discussion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Discussion2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ShoppingApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\prose\PycharmProjects\CSC500Module8\Discussions" />
@@ -215,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732762083687</updated>
       <workItem from="1732762093808" duration="1096000" />
-      <workItem from="1732765031079" duration="698000" />
+      <workItem from="1732765031079" duration="3478000" />
     </task>
     <task id="LOCAL-00001" summary="dis">
       <option name="closed" value="true" />
@@ -225,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732763164483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="assignment">
+      <option name="closed" value="true" />
+      <created>1732765871782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732765871782</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,11 +232,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dis" />
-    <option name="LAST_COMMIT_MESSAGE" value="dis" />
+    <MESSAGE value="assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSC500Module8$Discussion2.coverage" NAME="Discussion2 Coverage Results" MODIFIED="1732763051802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSC500Module8$Discussion.coverage" NAME="Discussion Coverage Results" MODIFIED="1732762943631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSC500Module8$ShoppingApp.coverage" NAME="ShoppingApp Coverage Results" MODIFIED="1732765548777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment" />
+    <SUITE FILE_PATH="coverage/CSC500Module8$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1732766059085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment" />
   </component>
 </project>
